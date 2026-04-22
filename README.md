@@ -83,7 +83,7 @@ https://raw.githubusercontent.com/rad168/mytv/refs/heads/main/php/mytv.php
 3.也可代理任何其他hls/m3u8直播源，使用方法：mytv.php?url=http://xxxx.com/hls/xxx.m3u8
 
 
-###更多直播源分享，欢迎加入直播源等影视资源分享交流群:https://t.me/tvzby
+### 更多直播源分享，欢迎加入直播源等影视资源分享交流群:https://t.me/tvzby
 
 
 
